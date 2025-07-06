@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>老六美食地圖</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+    
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html, body {
+            height: 100%;
+            font-family: "Noto Sans TC", sans-serif;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            font-size: 1.5rem;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            height: calc(100% - 80px); /* 除去 header 高度 */
+        }
+
+        .sidebar {
+            background-color: #ecf0f1;
+            min-width: 200px;
+            padding: 1rem;
+        }
+
+        .sidebar ul {
+            list-style: none;
+        }
+
+        .sidebar li {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid #ccc;
+            cursor: pointer;
+        }
+
+        main {
+            flex: 1;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* 響應式設計：手機與小螢幕 */
+        @media (max-width: 768px) {
+            .container {
+            flex-direction: column;
+            }
+
+            .sidebar {
+            min-width: 100%;
+            padding: 0.5rem;
+            }
+
+            .sidebar ul {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            }
+
+            .sidebar li {
+            border: none;
+            padding: 0.5rem;
+            }
+
+            main {
+            height: 100%;
+            }
+
+            #map {
+            height: 400px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        老六圖資研究中心
+    </header>
+
+    <div class="container">
+        <nav class="sidebar">
+        <ul>
+            <li>首頁</li>
+            <li>地圖</li>
+            <li>推薦餐廳</li>
+            <li>最新消息</li>
+        </ul>
+        </nav>
+
+        <main>
+            <div id="map"></div>
+        </main>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="map.js"></script>
+
+</body>
+</html>
