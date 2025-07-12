@@ -49,7 +49,7 @@
     "lng": 121.6136234846467,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1685181402126851",
-    "type": "甜點 / 冰品",
+    "type": "甜點/冰品",
     "city": "台北市",
     "District": "內湖區",
     "google_map": "https://maps.app.goo.gl/uUpi4RjmXsKYsTnKA"
@@ -82,7 +82,7 @@
     "lng": 121.61272694120832,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1685181402126851",
-    "type": "甜點 / 冰品",
+    "type": "甜點/冰品",
     "city": "台北市",
     "District": "內湖區",
     "google_map": "https://maps.app.goo.gl/MnsAdrqLEPvPzXGE6"
@@ -93,7 +93,7 @@
     "lng": 121.23289445396445,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/595666693573525",
-    "type": "生魚片 / 海鮮",
+    "type": "生魚片/海鮮",
     "city": "桃園市",
     "District": "平鎮區",
     "google_map": "https://maps.app.goo.gl/eEFR9LTLrhVgADBF9"
@@ -104,7 +104,7 @@
     "lng": 121.57867042085746,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1406933740639034",
-    "type": "港式 ",
+    "type": "港式",
     "city": "台北市",
     "District": "信義區",
     "google_map": "https://maps.app.goo.gl/TdYt1EDRpJ85xvjDA"
@@ -236,7 +236,7 @@
     "lng": 121.49704654811583,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/2246956629151666",
-    "type": "生魚片 / 海鮮",
+    "type": "生魚片/海鮮",
     "city": "台北市",
     "District": "萬華區",
     "google_map": "https://maps.app.goo.gl/x2gjoqYbMWzSix6b6"
@@ -247,7 +247,7 @@
     "lng": 120.44036530996257,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/9340217949415980",
-    "type": "甜點 / 冰品",
+    "type": "甜點/冰品",
     "city": "彰化縣",
     "District": "鹿港鎮",
     "google_map": "https://maps.app.goo.gl/hLFEr6U2ZDc6WSo57"
@@ -258,7 +258,7 @@
     "lng": 121.4848481,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/2963718330596202",
-    "type": "甜點 / 冰品",
+    "type": "甜點/冰品",
     "city": "新北市",
     "District": "三重區",
     "google_map": "https://maps.app.goo.gl/P7yhiPdUFrVNtyVB6"
@@ -291,7 +291,7 @@
     "lng": 121.551608,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1235307774836381",
-    "type": "甜點 / 冰品",
+    "type": "甜點/冰品",
     "city": "台北市",
     "District": "大安區",
     "google_map": "https://maps.app.goo.gl/sE9gufKg5ZW3DWcJ7"
@@ -511,7 +511,7 @@
     "lng": 121.464525,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/964387395540983",
-    "type": "甜點 / 冰品",
+    "type": "甜點/冰品",
     "city": "新北市",
     "District": "板橋區",
     "google_map": "https://maps.app.goo.gl/f1s2er5rTMGmb8Je6"
@@ -599,7 +599,7 @@
     "lng": 121.5039879,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/660223526457220",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "台北市",
     "District": "萬華區",
     "google_map": "https://maps.app.goo.gl/QDogTHJFWjZnLm5t6"
@@ -654,7 +654,7 @@
     "lng": 120.8297636,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1465015651544420",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "台中市",
     "District": "東勢區",
     "google_map": "https://maps.app.goo.gl/mHZqxtAJsW8gXVrr9"
@@ -665,7 +665,7 @@
     "lng": 121.5008426,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1848253302686747",
-    "type": "生魚片 / 海鮮",
+    "type": "生魚片/海鮮",
     "city": "台北市",
     "District": "萬華區",
     "google_map": "https://maps.app.goo.gl/E7F3bK6tiAxcxSFaA"
@@ -709,7 +709,7 @@
     "lng": 120.2843741,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1320380289194305",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "高雄市",
     "District": "鹽埕區",
     "google_map": "https://maps.app.goo.gl/tW2ZnkJc2yPjHdVx6"
@@ -808,7 +808,7 @@
     "lng": 121.4665234,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/671436862254313",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "新北市",
     "District": "板橋區",
     "google_map": "https://maps.app.goo.gl/y4kxrrq8dxteCh2LA"
@@ -984,7 +984,7 @@
     "lng": 121.7441998,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/2755235114866236",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "基隆市",
     "District": "仁愛區",
     "google_map": "https://maps.app.goo.gl/2hovjoTY6jEzpjp5A"
@@ -1083,7 +1083,7 @@
     "lng": 121.5349726,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/3947555948889953",
-    "type": "港式 ",
+    "type": "港式",
     "city": "台北市",
     "District": "中正區",
     "google_map": "https://maps.app.goo.gl/34rWoii5rp8hAqf89"
@@ -1105,7 +1105,7 @@
     "lng": 120.4436369,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1206864480910389",
-    "type": "生魚片 / 海鮮",
+    "type": "生魚片/海鮮",
     "city": "屏東縣",
     "District": "東港鎮",
     "google_map": "https://maps.app.goo.gl/FwwMhvprFFuLcCAv6"
@@ -1138,7 +1138,7 @@
     "lng": 120.4447249,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1206864480910389",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "屏東縣",
     "District": "東港鎮",
     "google_map": "https://maps.app.goo.gl/uCMtj9QvVgak1qXF7"
@@ -1226,7 +1226,7 @@
     "lng": 120.54708335661107,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/609156901664963",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "彰化縣",
     "District": "永靖鄉",
     "google_map": "https://maps.app.goo.gl/eyRGm2eyxtMAWhVeA"
@@ -1248,7 +1248,7 @@
     "lng": 121.4717729,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1831524407643881",
-    "type": "生魚片 / 海鮮",
+    "type": "生魚片/海鮮",
     "city": "新北市",
     "District": "蘆洲區",
     "google_map": "https://maps.app.goo.gl/rqFFMcZwMp7MGigD8"
@@ -1314,7 +1314,7 @@
     "lng": 121.5276666,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1633816963910356",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "台北市",
     "District": "士林區",
     "google_map": "https://maps.app.goo.gl/bGvgW8qtzXv2Uu8i6"
@@ -1325,7 +1325,7 @@
     "lng": 121.5285924,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1633816963910356",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "台北市",
     "District": "士林區",
     "google_map": "https://maps.app.goo.gl/pn2viYnkT7dfXpMg9"
@@ -1369,7 +1369,7 @@
     "lng": 121.52251290951102,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1633816963910356",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "台北市",
     "District": "士林區",
     "google_map": "https://maps.app.goo.gl/NMBr4VFkSoFCHgqCA"
@@ -1765,7 +1765,7 @@
     "lng": 120.6687061,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1797794434409517",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "台中市",
     "District": "西區",
     "google_map": "https://maps.app.goo.gl/p7QPS6hLjR5TZ5298"
@@ -1809,7 +1809,7 @@
     "lng": 121.2428516,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1047699237198958",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "桃園市",
     "District": "中壢區",
     "google_map": "https://maps.app.goo.gl/8dgsbgzDLtnpBxD47"
@@ -2238,7 +2238,7 @@
     "lng": 120.2066691,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1101496028032705",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "台南市",
     "District": "北區",
     "google_map": "https://maps.app.goo.gl/hKnLnoz9oxj1Lwp59"
@@ -2271,7 +2271,7 @@
     "lng": 120.2931928,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1101496028032705",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "台南市",
     "District": "歸仁區",
     "google_map": "https://maps.app.goo.gl/b47r4AmRuFa6Py7p9"
@@ -2293,7 +2293,7 @@
     "lng": 120.6769097,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1481009649955892",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "台中市",
     "District": "北區",
     "google_map": "https://maps.app.goo.gl/sT3YHnRMKi7hW4AB9"
@@ -2348,7 +2348,7 @@
     "lng": 121.4695856,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1270018370993752",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "新北市",
     "District": "板橋區",
     "google_map": "https://maps.app.goo.gl/vsj2ccmHiTyCW9si7"
@@ -2359,7 +2359,7 @@
     "lng": 121.5005209,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/1705005020343587",
-    "type": "生魚片 / 海鮮",
+    "type": "生魚片/海鮮",
     "city": "台北市",
     "District": "萬華區",
     "google_map": "https://maps.app.goo.gl/FxKgYb2z8cMpFitn7"
@@ -2425,7 +2425,7 @@
     "lng": 121.7587442,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/2183804022014631",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "宜蘭縣",
     "District": "羅東鎮",
     "google_map": "https://maps.app.goo.gl/oJ1DNnccTRg2xNP1A"
@@ -2458,7 +2458,7 @@
     "lng": 121.761564,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/2183804022014631",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "宜蘭縣",
     "District": "羅東鎮",
     "google_map": "https://maps.app.goo.gl/HkTAoHY64EBWMQYX8"
@@ -2469,7 +2469,7 @@
     "lng": 121.7704366855116,
     "platform": "Facebook",
     "link": "https://www.facebook.com/reel/2183804022014631",
-    "type": "冰品 / 甜點",
+    "type": "冰品/甜點",
     "city": "宜蘭縣",
     "District": "羅東鎮",
     "google_map": "https://maps.app.goo.gl/k5jChxdY73V1AD168"
@@ -4735,7 +4735,7 @@
     "lng": 121.5245785095107,
     "platform": "Instagram",
     "link": "https://www.instagram.com/p/C1jxkk8vKqy/?img_index=1",
-    "type": "甜點 / 冰品",
+    "type": "甜點/冰品",
     "city": "台北市",
     "District": "士林區",
     "google_map": "https://maps.app.goo.gl/5GmHChxfiSm3yRbK9"
@@ -4779,7 +4779,7 @@
     "lng": 121.52938866183538,
     "platform": "Instagram",
     "link": "https://www.instagram.com/p/C1G8E4cLmx6/",
-    "type": "生魚片 / 海鮮",
+    "type": "生魚片/海鮮",
     "city": "台北市",
     "District": "信義區",
     "google_map": "https://maps.app.goo.gl/4Agin1huqSKQpcZa9"
@@ -5065,7 +5065,7 @@
     "lng": 120.2679346,
     "platform": "Instagram",
     "link": "https://www.instagram.com/p/CxPJy0MvKf-/",
-    "type": "甜點 / 冰品",
+    "type": "甜點/冰品",
     "city": "高雄市",
     "District": "梓官區",
     "google_map": "https://maps.app.goo.gl/S1WBPahcfBAQ67dy9"
@@ -5076,7 +5076,7 @@
     "lng": 139.7573815,
     "platform": "Instagram",
     "link": "https://www.instagram.com/p/Cwg84Q3Jh0a/",
-    "type": "生魚片 / 海鮮",
+    "type": "生魚片/海鮮",
     "city": "東京都",
     "District": "港區",
     "google_map": "https://maps.app.goo.gl/jxQnvxXfszLbuHcSA"
